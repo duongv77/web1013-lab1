@@ -1,0 +1,62 @@
+header{
+    background-color: #272f54;
+    text-align: center;
+}
+.container{
+    margin: auto;
+    width: 979.92px;
+}
+body{
+    margin: 0;
+}
+.header{
+    background-color: #cc7605;
+}
+.nav ul li{
+    display: inline-block;
+    margin-right: 15px;
+}
+.nav ul li a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+form{
+    margin-right: 20px;
+}
+.btn-timkiem{
+    background-color: #272f54;
+    color: rgb(255, 255, 255);
+}
+.img-tuyensinh{
+    margin-top: 12px;
+}
+.row{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 38px;
+}
+.column{
+    border: 1px solid rgb(190, 190, 190);
+    align-items: center;
+    padding: 20px;
+}
+.img-with{
+    max-width: 100%;
+}
+h3{
+    color: #ad3f00;
+}
+footer{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.copyright{
+    margin-top: 16px;
+    background-color: #272f54;
+    padding: 10px 0;
+}
